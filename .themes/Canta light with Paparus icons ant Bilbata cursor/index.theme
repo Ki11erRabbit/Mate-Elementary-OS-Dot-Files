@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Canta light with Paparus icons ant Bilbata cursor
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Canta-light
+MetacityTheme=Canta-light
+IconTheme=Papirus-Light
+GtkColorScheme=link_color:#42A5F5,visited_link_color:#E040FB
+CursorTheme=Bibata-Original-Ice
+CursorSize=24
+NotificationTheme=slider
+BackgroundImage=/home/ad/Pictures/wp4203643-santa-monica-pier-wallpapers.jpg
