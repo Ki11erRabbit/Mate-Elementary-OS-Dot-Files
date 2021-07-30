@@ -12,7 +12,7 @@ Uses Canta Light Theme, Paparus Icons, and Bibata Cursor wallpaper is from [here
 
 ### Programs Used
 + Panther Launcher set to 5x3 (rowsXcolumns) using Dconf Editor
-+ Vala panel used for Global Application Menu 
++ Vala Panel Appmenu Mate used for Global Application Menu 
 + Plank Dock set to the Pantheon theme 
 + Mate Top Bar set to 24px.
 
@@ -22,3 +22,8 @@ Uses Canta Light Theme, Paparus Icons, and Bibata Cursor wallpaper is from [here
 
 Wallpaper can be found [here](https://wallpapercave.com/w/wp4203643) at wallpaper cave.
 
+## Setup
++ Copy repository to your PC.
++ Copy files in repository to your Home directory, overwriting the old files.
++ Move the wallpaper to where you please and set it.
++ Enjoy.
